@@ -12,7 +12,7 @@ Minecraftに一人称で操作可能なドローンを追加するMOD(Fabric 1.2
   <img width="1920" height="1128" alt="GeckoLib Entity 4 - Blockbench 2026_04_07 21_23_28" src="https://github.com/user-attachments/assets/2b374cca-440c-461c-8778-383bfdc3d829" />
 - 通信途絶アニメーション:一定以上の速度でブロックに衝突したときにドローン死亡アニメーションを再生
 
-  デモ動画
+  デモ動画  
 　https://github.com/user-attachments/assets/32520a05-6205-4139-abb7-8fe0251e8437  
   https://github.com/user-attachments/assets/f5666768-c62d-4c9d-887d-0a090955bb70  
   https://github.com/user-attachments/assets/cddbe960-6f8b-490d-a4bf-6f7870045401  
