@@ -1,0 +1,20 @@
+{
+  "drone_motor": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "fpv_drone:drone_motor",
+        "stream": true
+      }
+    ]
+  },
+  "drone_hit": {
+    "category": "neutral",
+    "sounds": [
+      "fpv_drone:hit1",
+      "fpv_drone:hit2",
+      "fpv_drone:hit3",
+      "fpv_drone:hit4"
+    ]
+  }
+}

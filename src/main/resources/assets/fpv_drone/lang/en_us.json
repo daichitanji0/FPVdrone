@@ -1,0 +1,12 @@
+{
+  "item.fpv_drone.drone": "Drone",
+  "item.fpv_drone.controller": "Controller",
+  "message.fpv_drone.linked": "§aConnected to Drone: §e%s",
+  "message.fpv_drone.unknown": "Unknown Drone",
+  "drone_name.prefix.1": "Rapid",
+  "drone_name.prefix.2": "Silent",
+  "drone_name.prefix.3": "a",
+  "drone_name.suffix.1": "Hawk",
+  "drone_name.suffix.2": "Eagle",
+  "drone_name.suffix.3": "b"
+}

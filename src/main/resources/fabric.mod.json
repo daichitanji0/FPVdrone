@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "fpv_drone",
+	"version": "${version}",
+	"name": "FPV Drone Mod",
+	"description": "FPVドローンを追加できるmod",
+	"authors": [
+		"sisui"
+	],
+	"contact": {},
+	"license": "CC0-1.0",
+	"icon": "assets/fpv_drone/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"me.sisui.fpv_drone.FPVDroneMod"
+		],
+		"client": [
+			"me.sisui.fpv_drone.FPVDroneModClient"
+		]
+	},
+	"mixins": [
+		"fpv_drone.mixins.json",
+		{
+			"config": "fpv_drone.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

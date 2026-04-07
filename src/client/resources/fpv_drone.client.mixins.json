@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "me.sisui.fpv_drone.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin",
+		"PlayerRenderMixin",
+		"CameraRollMixin",
+		"HandRenderMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

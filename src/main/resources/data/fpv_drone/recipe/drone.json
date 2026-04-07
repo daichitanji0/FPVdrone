@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PP",
+    "PP"
+  ],
+  "key": {
+    "P": "minecraft:phantom_membrane"
+  },
+  "result": {
+    "id": "fpv_drone:drone",
+    "count": 1
+  }
+}
