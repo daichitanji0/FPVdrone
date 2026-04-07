@@ -13,27 +13,27 @@ Minecraftに一人称で操作可能なドローンを追加するMOD(Fabric 1.2
 - 通信途絶アニメーション:一定以上の速度でブロックに衝突したときにドローン死亡アニメーションを再生
 
   デモ動画  
-　https://github.com/user-attachments/assets/32520a05-6205-4139-abb7-8fe0251e8437  
-  https://github.com/user-attachments/assets/f5666768-c62d-4c9d-887d-0a090955bb70  
-  https://github.com/user-attachments/assets/cddbe960-6f8b-490d-a4bf-6f7870045401  
-  https://github.com/user-attachments/assets/5c8a9764-7636-4b85-b201-f2a7a115863d  
-　https://github.com/user-attachments/assets/6ba14b5e-e77d-406c-9f38-443e8e32ac04  
+https://github.com/user-attachments/assets/32520a05-6205-4139-abb7-8fe0251e8437  
+https://github.com/user-attachments/assets/f5666768-c62d-4c9d-887d-0a090955bb70  
+https://github.com/user-attachments/assets/cddbe960-6f8b-490d-a4bf-6f7870045401  
+https://github.com/user-attachments/assets/5c8a9764-7636-4b85-b201-f2a7a115863d  
+https://github.com/user-attachments/assets/6ba14b5e-e77d-406c-9f38-443e8e32ac04  
 
 ## 使用技術
-- Language: Java
-- Framework: Fabric API / Gradle
-- Library: GeckoLib
-- Tool: Blockbench ,Antigravity
+- Language: Java  
+- Framework: Fabric API / Gradle  
+- Library: GeckoLib  
+- Tool: Blockbench ,Antigravity  
 
 ## 🎵 使用素材・クレジット
-プロペラ音
-Propeller.wav by DylanTheFish -- https://freesound.org/s/457013/ -- License: Creative Commons 0
+プロペラ音  
+Propeller.wav by DylanTheFish -- https://freesound.org/s/457013/ -- License: Creative Commons 0  
 
-ブロックとの接触音
-hit_gloop2.aif by buzzbox -- https://freesound.org/s/23993/ -- License: Attribution 3.0
-found trashbin plastic hit.wav by apinasaundi -- https://freesound.org/s/405655/ -- License: Creative Commons 0
-hit plastic box.wav by gusgus26 -- https://freesound.org/s/121195/ -- License: Creative Commons 0
-wood bang by ssierra1202 -- https://freesound.org/s/391965/ -- License: Creative Commons 0
+ブロックとの接触音  
+hit_gloop2.aif by buzzbox -- https://freesound.org/s/23993/ -- License: Attribution 3.0  
+found trashbin plastic hit.wav by apinasaundi -- https://freesound.org/s/405655/ -- License: Creative Commons 0  
+hit plastic box.wav by gusgus26 -- https://freesound.org/s/121195/ -- License: Creative Commons 0  
+wood bang by ssierra1202 -- https://freesound.org/s/391965/ -- License: Creative Commons 0  
 
 ---
 © 2026 sisui - Licensed under the MIT License
